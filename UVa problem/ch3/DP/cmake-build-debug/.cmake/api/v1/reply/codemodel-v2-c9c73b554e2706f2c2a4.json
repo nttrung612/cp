@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "11450_best::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11450_best-Debug-d068e0e68dbd6ab02373.json",
+					"name" : "11450_best",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11450_bottom_up::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11450_bottom_up-Debug-9384cef439e969a86734.json",
+					"name" : "11450_bottom_up",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "11450_wedding_shopping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-11450_wedding_shopping-Debug-97431597e8b4e40cca65.json",
+					"name" : "11450_wedding_shopping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/trung/CLionProjects/UVa problem/DP/cmake-build-debug",
+		"source" : "C:/Users/trung/CLionProjects/UVa problem/DP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

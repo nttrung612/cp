@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f88aa3c-6b7d-4241-90af-76070b124679" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cnfDI3d8adxE2jisngb3TafCFZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.untitled.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Admin/CLionProjects/demo code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f88aa3c-6b7d-4241-90af-76070b124679" name="Changes" comment="" />
+      <created>1708752142583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708752142583</updated>
+      <workItem from="1708752147728" duration="8144000" />
+      <workItem from="1708770267509" duration="1589000" />
+      <workItem from="1708944488018" duration="2300000" />
+      <workItem from="1708953797866" duration="4621000" />
+      <workItem from="1709001826157" duration="254000" />
+      <workItem from="1709050446807" duration="4000" />
+      <workItem from="1709093380306" duration="4148000" />
+      <workItem from="1709159224106" duration="1446000" />
+      <workItem from="1709205973150" duration="4594000" />
+      <workItem from="1709295603884" duration="6365000" />
+      <workItem from="1709346805732" duration="8161000" />
+      <workItem from="1709371810418" duration="594000" />
+      <workItem from="1709448632547" duration="10208000" />
+      <workItem from="1709477198537" duration="1078000" />
+      <workItem from="1709536833027" duration="2937000" />
+      <workItem from="1709550652378" duration="4132000" />
+      <workItem from="1709567001862" duration="5559000" />
+      <workItem from="1709633553179" duration="4000" />
+      <workItem from="1709645694087" duration="10021000" />
+      <workItem from="1709713081037" duration="10853000" />
+      <workItem from="1709733185053" duration="5436000" />
+      <workItem from="1709785664982" duration="6953000" />
+      <workItem from="1709801994523" duration="594000" />
+      <workItem from="1709810938075" duration="11292000" />
+      <workItem from="1709867887231" duration="6028000" />
+      <workItem from="1709887071673" duration="2814000" />
+      <workItem from="1709902669075" duration="1419000" />
+      <workItem from="1709954996473" duration="5423000" />
+      <workItem from="1709972629074" duration="3935000" />
+      <workItem from="1710000010486" duration="4565000" />
+      <workItem from="1710038701041" duration="18752000" />
+      <workItem from="1710167950493" duration="1539000" />
+      <workItem from="1710170407895" duration="2370000" />
+      <workItem from="1710180106708" duration="303000" />
+      <workItem from="1710202269835" duration="2711000" />
+      <workItem from="1710309317769" duration="1542000" />
+      <workItem from="1710319188190" duration="3680000" />
+      <workItem from="1710415174470" duration="4851000" />
+      <workItem from="1710470870411" duration="3637000" />
+      <workItem from="1710494031031" duration="2095000" />
+      <workItem from="1710513341275" duration="10078000" />
+      <workItem from="1710583226748" duration="1243000" />
+      <workItem from="1710600326589" duration="1240000" />
+      <workItem from="1710644249043" duration="5143000" />
+      <workItem from="1710657364747" duration="2417000" />
+      <workItem from="1710740819749" duration="2379000" />
+      <workItem from="1710745462765" duration="2490000" />
+      <workItem from="1710762603215" duration="702000" />
+      <workItem from="1710766621780" duration="133000" />
+      <workItem from="1710843429236" duration="2777000" />
+      <workItem from="1710925443798" duration="4300000" />
+      <workItem from="1710934261661" duration="1782000" />
+      <workItem from="1710943234884" duration="110000" />
+      <workItem from="1711083803808" duration="1027000" />
+      <workItem from="1711098647664" duration="607000" />
+      <workItem from="1711117533492" duration="632000" />
+      <workItem from="1711127197428" duration="3457000" />
+      <workItem from="1711132241828" duration="2816000" />
+      <workItem from="1711170952190" duration="3149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="s" language="ObjectiveC" />
+        <watch expression="v" language="ObjectiveC" />
+        <watch expression="a" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

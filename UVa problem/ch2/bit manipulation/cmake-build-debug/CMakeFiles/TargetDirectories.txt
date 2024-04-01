@@ -1,0 +1,4 @@
+C:/Users/trung/CLionProjects/UVa problem/ch2/bit manipulation/cmake-build-debug/CMakeFiles/10264.dir
+C:/Users/trung/CLionProjects/UVa problem/ch2/bit manipulation/cmake-build-debug/CMakeFiles/12571.dir
+C:/Users/trung/CLionProjects/UVa problem/ch2/bit manipulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trung/CLionProjects/UVa problem/ch2/bit manipulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
