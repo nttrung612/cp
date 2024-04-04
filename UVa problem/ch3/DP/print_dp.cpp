@@ -29,7 +29,7 @@ void print_dp(int g, int b) {
         return;
     }
     for(int i=1;i<=price[g][0];++i) {
-        if(dp(b-price[g][i], g+1) == dp(b, g)) {
+        if(dp(b-price[g][i], g+1) == memo[b][g]) {
             ans.push_back(price[g][i]);
             print_dp(g+1, b-price[g][i]);
             ans.pop_back();
