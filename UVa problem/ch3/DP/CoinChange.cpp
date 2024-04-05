@@ -24,9 +24,9 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
 
+    int money; cin >> money;
     cin >> n;
     for(int i=0;i<n;++i) cin >> coinValue[i];
-    int money; cin >> money;
     memset(memo, -1, sizeof memo);
     cout << change(money) << '\n';
 
