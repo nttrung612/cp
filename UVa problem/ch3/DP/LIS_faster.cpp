@@ -4,7 +4,7 @@ typedef vector<int> vi;
 const int maxN = 1e4+5;
 
 vi L, L_id;
-vi a(maxN);
+int a[maxN];
 
 void print_LIS(int i) {
     if(i == -1) return;
@@ -19,7 +19,7 @@ int main() {
     int n; cin >> n;
     for(int i=0;i<n;++i) cin >> a[i];
     L.assign(n, 0); L_id.assign(n, 0);
-    int k=0, lis_end;
+    int k=0, lis_end=0;
     vi p(n, -1);
     for(int i=0;i<n;++i) {
         int pos = lower_bound(L.begin(), L.begin()+k, a[i]) - L.begin();
