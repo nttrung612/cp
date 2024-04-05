@@ -3,13 +3,16 @@ using namespace std;
 typedef vector<int> vi;
 const int maxN = 1e4+5;
 
-vi L, L_id;
+vi L, L_id, p;
 int a[maxN];
 
 void print_LIS(int i) {
-    if(i == -1) return;
-    print_LIS(L_id[i]);
-    cout << a[i] << '\n';
+    if(p[i] == -1) {
+        cout << a[i];
+        return;
+    }
+    print_LIS(p[i]);
+    cout << ' ' << a[i];
 }
 
 int main() {
@@ -19,8 +22,8 @@ int main() {
     int n; cin >> n;
     for(int i=0;i<n;++i) cin >> a[i];
     L.assign(n, 0); L_id.assign(n, 0);
+    p.assign(n, -1);
     int k=0, lis_end=0;
-    vi p(n, -1);
     for(int i=0;i<n;++i) {
         int pos = lower_bound(L.begin(), L.begin()+k, a[i]) - L.begin();
         L[pos] = a[i];
